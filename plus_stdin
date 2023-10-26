@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2023 Kazuma Fukumizu
+
 import sys
 
 ans = 0.0
