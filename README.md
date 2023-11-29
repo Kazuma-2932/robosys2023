@@ -3,16 +3,16 @@
 
 ## インストールの方法
 1.Python3.7以上をインストールする\
-2.ターミナルを開いて以下のコードを入力してクローンする \\ (既に他のディレクトリにいる際はcdと入力でhomeに戻る)\
- git clone https://github.com/Kazuma-2932/robosys2023 \
+2.ターミナルを開いて以下のコードを入力してクローンする(既に他のディレクトリにいる際はcdと入力でhomeに戻る)\
+  $ git clone https://github.com/Kazuma-2932/robosys2023 \
 3.以下のコードを入力してクローンしたリポジトリのディレクトリに移動する\
- cd robosys2023
+  $ cd robosys2023
 
 ## 簡単な使い方
 1.以下を入力し、chmodを使用することで、実行権限を付与させる
-　chmod +x plus
+　$ chmod +x plus
 2.以下のコードを入力し、1から足したい数nを指定する
-　seq n | ./plus
+　$ seq n | ./plus
 3.1からnまでの和が結果として出力される
 
 ## OSのバージョン
