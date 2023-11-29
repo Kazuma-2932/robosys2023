@@ -3,8 +3,8 @@
 
 ## インストールの方法
 1.Python3.7以上をインストールする\
-2.ターミナルを開いて以下のコードを入力してクローンする\(既に他のディレクトリにいる際はcdと入力でhomeに戻る)\
- git clone https://github.com/Kazuma-2932/robosys2023\
+2.ターミナルを開いて以下のコードを入力してクローンする\ (既に他のディレクトリにいる際はcdと入力でhomeに戻る)\
+ git clone https://github.com/Kazuma-2932/robosys2023 \
 3.以下のコードを入力してクローンしたリポジトリのディレクトリに移動する\
  cd robosys2023
 
