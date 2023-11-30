@@ -16,7 +16,7 @@
 * 3.1からnまでの和が結果として出力される
 
 ## OSのバージョン
-Windows,mac,Linux
+Windows
 
 ## Pythonのバージョン
 Python 3.8.10
@@ -29,12 +29,10 @@ Python 3.8.10
 ![test](https://github.com/Kazuma-2932/robosys2023/actions/workflows/test.yml/badge.svg)
 
 ## テスト環境
-* Ubuntu
-
-©　2023 Kazuma-2932
+* Ubuntu 20.04.6 LTS
 
 ## 権利関係
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
-      * [ryuichiueda/my_slides/robosys_2022](https://github.com/ryuiichiueda/my_slides/tree/master/robosys_2022)
-  * © 2023 Kazuma-2932
+* [https://github.com/ryuichiueda/my_slides/blob/master/robosys_2022/lesson5.md][https://github.com/ryuichiueda/my_slides/blob/master/robosys_2022/lesson7.md](https://github.com/ryuiichiueda/my_slides/tree/master/robosys_2022)
+* ©2023 Kazuma-2932
