@@ -16,7 +16,7 @@
 * 3.1からnまでの和が結果として出力される
 
 ## OSのバージョン
-Windows
+Windows 11
 
 ## Pythonのバージョン
 Python 3.8.10
